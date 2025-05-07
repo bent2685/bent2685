@@ -44,8 +44,14 @@ Hello, I am a full-stack developer, skilled at writing cold, lifeless code and l
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>  
 
-<br/>  
+<br/> 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bent2685&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bent2685&theme=noctis_minimus&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bent2685&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<br/> 
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
