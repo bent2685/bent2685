@@ -15,30 +15,6 @@ Hello, I am a full-stack developer, skilled at writing cold, lifeless code and l
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I'm good at front-end development and cross-platform development  
-  
-
-- ⚡Like to study code  
-  
-
-- 📄 My blog https://bent2685.github.io/  
-
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://avatars.githubusercontent.com/u/94226447?v=4" align="right" height="200px" width="200px" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -71,30 +47,11 @@ Hello, I am a full-stack developer, skilled at writing cold, lifeless code and l
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=bent2685&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bent2685&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bent2685&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=bent2685&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+[![](https://visitcount.itsvg.in/api?id=bent2685&icon=5&color=7)](https://visitcount.itsvg.in)
