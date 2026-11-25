@@ -15,30 +15,8 @@
 **[Vetta](https://github.com/openvetta/open-vetta)** — Open-source, local-first AI agent for real work, plus its ecosystem.
 
 <p align="center">
-  <a href="https://github.com/openvetta/open-vetta">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=open-vetta&theme=github_dark&hide_border=true&bg_color=161b22" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=open-vetta&hide_border=true&bg_color=f6f8fa" alt="open-vetta" />
-    </picture>
-  </a>
-  <a href="https://github.com/openvetta/vetta-official-marketplace">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-official-marketplace&theme=github_dark&hide_border=true&bg_color=161b22" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-official-marketplace&hide_border=true&bg_color=f6f8fa" alt="vetta-official-marketplace" />
-    </picture>
-  </a>
-  <a href="https://github.com/openvetta/vetta-design-templates">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-design-templates&theme=github_dark&hide_border=true&bg_color=161b22" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-design-templates&hide_border=true&bg_color=f6f8fa" alt="vetta-design-templates" />
-    </picture>
-  </a>
-  <a href="https://github.com/bent2685/transok">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bent2685&repo=transok&theme=github_dark&hide_border=true&bg_color=161b22" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bent2685&repo=transok&hide_border=true&bg_color=f6f8fa" alt="transok" />
-    </picture>
-  </a>
+<a href="https://github.com/openvetta/open-vetta"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=open-vetta&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=open-vetta&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="open-vetta" /></picture></a><a href="https://github.com/openvetta/vetta-official-marketplace"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-official-marketplace&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-official-marketplace&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="vetta-official-marketplace" /></picture></a><br/>
+<a href="https://github.com/openvetta/vetta-design-templates"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-design-templates&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-design-templates&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="vetta-design-templates" /></picture></a><a href="https://github.com/bent2685/transok"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bent2685&repo=transok&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bent2685&repo=transok&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="transok" /></picture></a>
 </p>
 
 ## 🛠️ Tech Stack
