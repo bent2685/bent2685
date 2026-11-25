@@ -15,6 +15,19 @@ Hello, I am a full-stack developer, skilled at writing cold, lifeless code and l
 <br/>  
 
 
+## 🚀 What I'm Working On  
+
+### [Vetta](https://github.com/openvetta/open-vetta)  
+Open-source, local-first AI agent for real work.  
+
+**Ecosystem**  
+- [vetta-official-marketplace](https://github.com/openvetta/vetta-official-marketplace) — Official ability marketplace for the Vetta desktop app  
+- [vetta-design-templates](https://github.com/openvetta/vetta-design-templates) — Design resources for Vetta's Design workspace: curated design systems and references
+  
+
+<br/>  
+
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
