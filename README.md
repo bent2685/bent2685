@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:334155&text=Hi,%20I'm%20bent&fontColor=f8fafc&fontSize=52&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Building%20Vetta&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm bent" />
+<img src="./assets/header.svg" width="100%" alt="bent — Full-stack developer, Go maximalist, building Vetta" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=The+most+devoted+Go+advocate.;Full-time+bug+manufacturer.;Building+a+local-first+AI+agent." alt="Typing intro" />
@@ -45,4 +45,4 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,100:334155" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
