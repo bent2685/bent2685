@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:334155&text=Hi,%20I'm%20bent&fontColor=f8fafc&fontSize=52&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Building%20Vetta&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm bent" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=Writing+cold%2C+lifeless+code.;Living+an+absurd+life.;Building+a+local-first+AI+agent." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=The+most+devoted+Go+advocate.;Full-time+bug+manufacturer.;Building+a+local-first+AI+agent." alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -10,6 +10,12 @@
   <a href="https://github.com/bent2685/transok"><img src="https://img.shields.io/github/stars/bent2685/transok?label=Transok&style=flat-square&color=334155&logo=github" alt="Transok stars" /></a>
 </p>
 
+## 👋 About Me
+
+- 🐹 **The most devoted Go advocate** — if it can be written in Go, it will be.
+- 🐛 **Full-time bug manufacturer** — I write features; the bugs come free of charge.
+- 🧊 Writing cold, lifeless code and living an absurd life.
+
 ## 🚀 What I'm Working On
 
 **[Vetta](https://github.com/openvetta/open-vetta)** — Open-source, local-first AI agent for real work, plus its ecosystem.
@@ -17,13 +23,6 @@
 <p align="center">
 <a href="https://github.com/openvetta/open-vetta"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=open-vetta&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=open-vetta&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="open-vetta" /></picture></a><a href="https://github.com/openvetta/vetta-official-marketplace"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-official-marketplace&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-official-marketplace&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="vetta-official-marketplace" /></picture></a><br/>
 <a href="https://github.com/openvetta/vetta-design-templates"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-design-templates&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=openvetta&repo=vetta-design-templates&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="vetta-design-templates" /></picture></a><a href="https://github.com/bent2685/transok"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=bent2685&repo=transok&description_lines_count=3&hide_border=true&theme=github_dark&bg_color=161b22" /><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bent2685&repo=transok&description_lines_count=3&hide_border=true&bg_color=f6f8fa" alt="transok" /></picture></a>
-</p>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,swift,python,java,react,vue,nodejs,electron,tailwind,sass,html&perline=13" alt="Languages & frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring,express,prisma,postgres,mysql,redis,mongodb,rabbitmq,docker,nginx,linux,webpack&perline=12" alt="Backend & infra" />
 </p>
 
 ## 📊 GitHub Stats
